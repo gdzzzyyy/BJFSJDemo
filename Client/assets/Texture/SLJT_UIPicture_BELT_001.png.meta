@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "66106aec-9d39-4b91-84a6-4005281900ed",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "SLJT_UIPicture_BELT_001": {
+      "ver": "1.0.3",
+      "uuid": "07324ce3-86c1-4c4d-92b0-e6827810dd71",
+      "rawTextureUuid": "66106aec-9d39-4b91-84a6-4005281900ed",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 278,
+      "height": 95,
+      "rawWidth": 278,
+      "rawHeight": 95,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 89,
+      "borderRight": 89,
+      "subMetas": {}
+    }
+  }
+}
